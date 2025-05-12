@@ -15,7 +15,7 @@ Este guia mostra como instalar o Python no **Windows**, **macOS** e **Linux**.
 
 ### Verificando a Instalação
 
-Após a instalação, abra o **Prompt de Comando** e digite:
+Após a instalação, abra o **Prompt de Comando**  (Windows+R e digite cmd) e digite:
 
 ```sh
 python --version
