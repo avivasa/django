@@ -4,7 +4,7 @@ Este guia mostra como instalar o Python no **Windows**, **macOS** e **Linux**.
 
 ---
 
-## 🖥️ Windows
+## Windows
 
 ### Instalação via Executável
 
