@@ -23,7 +23,7 @@ python --version
 
 ---
 
-## 🐧 Linux
+##  Linux
 
 ### Instalação via Repositório
 
@@ -44,7 +44,7 @@ python3 --version
 
 ---
 
-## 🍎 macOS
+##  macOS
 
 ### Instalação via Site Oficial
 
@@ -59,8 +59,3 @@ Abra o **Terminal** e digite:
 ```sh
 python3 --version
 ```
-
----
-
-Se quiser, posso adicionar instruções para instalação via gerenciadores de pacotes como `brew` no macOS ou `pyenv`. Deseja incluir isso também?
-
