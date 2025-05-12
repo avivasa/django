@@ -1,0 +1,34 @@
+# Guia de Instalação do Python 🐍
+
+Este guia mostra como instalar o Python no **Windows**, **macOS** e **Linux**.
+
+## 🖥️ Windows
+
+### Instalação via Executável
+1. Acesse o site oficial do Python: [python.org](https://www.python.org/downloads/)
+2. Baixe a versão mais recente compatível com seu sistema.
+3. Execute o arquivo `.exe` e selecione **"Add Python to PATH"** antes de instalar.
+4. Clique em **"Install Now"** e aguarde a conclusão.
+
+### Verificando a Instalação
+Após a instalação, abra o **Prompt de Comando** e digite:
+```sh
+python --version
+
+## 🖥️ Linux
+
+### Instalação via Repositório
+1. Abra o terminal do Linux e Digite 
+```sh
+sudo apt update
+sudo apt install python3
+
+### Verificando a Instalação
+Verifique se a instalação foi efetuada corretamente
+```sh
+python --version
+
+## 🖥️ MAC OSX
+1. Acesse o site oficial do Python: [python.org](https://www.python.org/downloads/macos/)
+2. Baixe a versão mais recente compatível com seu sistema.
+3. Execute o arquivo
